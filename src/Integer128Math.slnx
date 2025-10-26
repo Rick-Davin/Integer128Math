@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BenchmarkingApp/BenchmarkingApp.csproj"  Id="3f652079-7e1a-42ee-8f05-93f9e7f34d75" />
+  <Project Path="DavinLib/DavinLib.csproj" Id="cdd49b32-ac8b-4f7f-ace3-3b1025edca1d" />
+  <Project Path="DemoApp/DemoApp.csproj" />
+</Solution>
